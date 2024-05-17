@@ -37,7 +37,6 @@ public:
 	{
 		m_Name = name;
 	}
-
 };
 
 void PrintEntity(const Entity& e)
